@@ -6,7 +6,7 @@ The letterforms are clean, modern and straightforward, with a classic touch of h
 The complete family of "be Vietnam" comes with 7 weights and their matching slanted versions. Moreover, there will be a master type family of "beVietnam" coming soon.
 Through this new typeface, we want to seek for innovations and creativity - the fuel that drives humanity towards.
 
-be Vietnam is designed by the internal design team at beGroup Vietnam with Gabriel Lam as the lead principal designer, Tony Le as the Project Manager and Mr. Vietanh Nguyen from bettergui.com who helped us tackled all the engineering issues.
+be Vietnam is designed by the internal design team at beGroup Vietnam with Gabriel Lam as the lead principal designer, Tony Le as the Project Manager and Mr. Vietanh Nguyen from uxlagi.com who helped us tackled all the engineering issues.
 
 ![Sample 1](samples/1.png)
 ![Sample 2](samples/2.png)
