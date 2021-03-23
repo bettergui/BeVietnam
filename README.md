@@ -13,6 +13,6 @@ be Vietnam is designed by the internal design team at beGroup Vietnam with Gabri
 
 ## Changelog
 
-### Version 1.000
+### Version 2.000
 
 - Make available on Github.
