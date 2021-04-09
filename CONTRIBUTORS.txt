@@ -11,4 +11,4 @@
 
 beGroup Vietnam <tony.le@be.xyz>
 Tony Le <tony.le@be.xyz>
-Vietanh D. Nguyen <vietanh@bettergui.com>
+Vietanh Nguyen <vietanh@bettergui.com>
