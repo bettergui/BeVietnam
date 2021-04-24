@@ -1,10 +1,14 @@
 {
-.appVersion = "1342";
+.appVersion = "1352";
 DisplayStrings = (
-"s/tcaron e",
-"/space ý/ycircumflex/ydieresis/ydotbelow/ygrave/yhookabove/ytilde",
-"@&¶§©®/trademark °|¦/dagger/daggerdbl ¢¤$/dong/euro £¥/divisionslash +/minus ×÷=/notequal ></greaterequal/lessequal ±/approxequal ~¬^µ%/perthousand",
-"1694245"
+"9/nineinferior/nineinferior/nineinferior/nine.dnom.ss01/nine.dnom.ss01/nine.dnom.ss01",
+pg,
+"/circumflexcomb/caroncomb/Gcaron",
+"E/Eogonek",
+"1:1/space AA:A",
+"{}",
+"ph/uhorn/ohorn ng",
+"/dcroat aftferf"
 );
 classes = (
 {
@@ -49,6 +53,10 @@ Name = Italic;
 Tag = ital;
 }
 );
+},
+{
+name = "Use Typo Metrics";
+value = 1;
 }
 );
 date = "2021-03-14 09:13:04 +0000";
@@ -201373,6 +201381,6 @@ GSDimensionPlugin.Dimensions = {
 };
 };
 };
-versionMajor = 2;
+versionMajor = 5;
 versionMinor = 0;
 }
